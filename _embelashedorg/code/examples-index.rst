@@ -2,9 +2,9 @@ Pure Data Examples
 ##################
 It's always easier to modify or edit than to start with a blank page, so this is a collection of Pure Data examples that provide some simple interaction and functionality.
 
-
 All examples can be found in the `pure-data-bela-tutorials Github repository <https://github.com/theleadingzero/pure-data-bela-tutorials>`_, in the folder ``examples``.
 
+You can ``git clone`` the examples by visiting the link above, alternatively you can download the repository as a ``.zip`` `here <https://github.com/theleadingzero/pure-data-bela-tutorials/archive/master.zip>`_.
 
 Installation
 ************

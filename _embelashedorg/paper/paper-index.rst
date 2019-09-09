@@ -1,7 +1,11 @@
 Paper Sensor Resources
 ######################
+
 There are many ways to build and connect sensors to Bela Mini. Here you will find resources on how to use paper circuitry. Listed below are tutorials on how to build a selection of sensors along with guides on how to make your own Paper Capelet and Pocket Connectors which allow you to connect those paper sensors to a Bela Mini.
 
+All paper sensors can be found in the `embelashed Github repository <https://github.com/theleadingzero/embelashed>`_, in the folder ``paper``.
+
+You can ``git clone`` the paper sensors by visiting the link above, alternatively you can download the repository as a ``.zip`` `here <https://github.com/theleadingzero/embelashed/archive/master.zip>`_.
 
 Paper Sensors
 *************
